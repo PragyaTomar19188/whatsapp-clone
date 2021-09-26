@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "whatsapp-c36cc",
+    "whatsapp": "whatsapp-c36cc"
+  },
+  "targets": {}
+}
